@@ -1,5 +1,7 @@
 # 👵📱 Grandma's Phone
 
+**▶ Play it: https://grandma-phone-two.vercel.app**
+
 **A scam-spotting game for social good.** Grandma Rosa's phone won't stop buzzing. Some messages are from the people she loves, and some are scams. Keep her savings safe **without cutting her off from her family**.
 
 ## How to play
